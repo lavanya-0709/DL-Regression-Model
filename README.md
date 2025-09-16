@@ -40,9 +40,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: CHARU NETHRA R
+### Name: LAVANYA S
 
-### Register Number: 212223230035
+### Register Number: 212223230112
 
 ```python
 import torch
@@ -159,9 +159,9 @@ plt.plot(x1.numpy(), y1.numpy(), 'r', label="Best-Fit Line")
 plt.xlabel('x')
 plt.ylabel('y')
 plt.title('Trained Model: Best-Fit Line')
-plt.legend()
+plt.legend() 
 plt.show()
-```
+``` 
 
 ### Dataset Information
 <img width="1390" height="918" alt="image" src="https://github.com/user-attachments/assets/b70726d5-5b69-46f2-9ba0-bf12c944098b" />
@@ -177,6 +177,7 @@ plt.show()
 
 
 ### New Sample Data Prediction
+
 
 <img width="372" height="64" alt="image" src="https://github.com/user-attachments/assets/15e63bf9-1ef3-42b1-aff7-c422bfb4005d" />
 
